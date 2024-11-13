@@ -1,0 +1,121 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: #f0f2f5;
+}
+
+.ticket-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #e5e9ef;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Incident Info */
+.incident-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.incident-info i {
+    font-size: 18px;
+    color: #333;
+}
+
+.incident-id {
+    font-weight: 500;
+    color: #555;
+}
+
+/* Action Icons */
+.action-icons {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.action-icons i {
+    font-size: 18px;
+    color: #555;
+    cursor: pointer;
+}
+
+.action-icons i:hover {
+    color: #3498db;
+}
+
+/* Action Buttons */
+.action-buttons {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Edit Button */
+.edit-button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background-color 0.2s;
+}
+
+.edit-button:hover {
+    background-color: #2980b9;
+}
+
+.edit-button:active {
+    background-color: #1c6691;
+}
+
+/* Auto-Resolve Button */
+.auto-resolve-button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #1c3d5a;
+    color: #fff;
+    cursor: pointer;
+    font-weight: 700;
+    transition: background-color 0.2s;
+}
+
+.auto-resolve-button:hover {
+    background-color: #15304a;
+}
+
+.auto-resolve-button:active {
+    background-color: #0e2233;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .ticket-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .action-buttons {
+        width: 100%;
+        justify-content: flex-start;
+    }
+
+    .edit-button,
+    .auto-resolve-button {
+        width: 100%;
+    }
+}

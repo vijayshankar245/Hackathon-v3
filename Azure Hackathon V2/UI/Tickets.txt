@@ -1,0 +1,12 @@
+Ticket Reference:ghfy9378
+Ticket Subject: Unable to access signature portal
+Ticket Description: I was not able to access signature portal from central customer portal since yesterday, could 
+you please check on the same and provide the resolution.
+Ticket Resolution: Thanks for reaching out to us, upon investigation, we observed that some users have reported losing access since migration of signature portal, please raise a request in central IT portal using the template: SIGNATURE PORTAL ACCESS - NEW
+
+Ticket Reference:ifgj7890
+Ticket Subject: Unable to create bitbucket access request
+Ticket Description: I tried raising bitbucket access request with my id, however I got an error stating this product does not allow multiple accounts for same user even though my previous account has been disabled by movers team 
+Ticket Resolution: Thanks for reaching out to us, upon checking, we could see that bit bucket entitlement has not been removed for your ID. Please raise a removal request to remove bit bucket entitlement and raise another request so that the required permissions get applied to you
+
+
