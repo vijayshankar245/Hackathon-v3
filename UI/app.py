@@ -17,12 +17,12 @@ from langchain_community.vectorstores.azuresearch import AzureSearch
 from langchain_openai import AzureOpenAIEmbeddings, OpenAIEmbeddings
 from langchain_openai import AzureChatOpenAI
 
-os.environ["AZURE_AI_SEARCH_SERVICE_NAME"] = "https://ragservice123.search.windows.net"
+os.environ["AZURE_AI_SEARCH_SERVICE_NAME"] = ""
 os.environ["AZURE_AI_SEARCH_INDEX_NAME"] = "master-business-incidents2"
-os.environ["AZURE_AI_SEARCH_API_KEY"] = "kYTk8LtHQDvTb2LnYqG09vbeBNSwEB1287MrZbqkgFAzSeCNW3gO"
+os.environ["AZURE_AI_SEARCH_API_KEY"] = ""
 
-os.environ["AZURE_OPENAI_ENDPOINT"] = "https://gh018-m3fob2dq-swedencentral.openai.azure.com/openai/deployments/gpt-4o/chat/completions?api-version=2024-08-01-preview"
-os.environ["AZURE_OPENAI_API_KEY"] = "5JYysB7CedH4g26m0WwUhPqDgkcvDKu6PWVmMTwHfKpvhwZ6pbizJQQJ99AKACfhMk5XJ3w3AAAAACOGjeKe"
+os.environ["AZURE_OPENAI_ENDPOINT"] = ""
+os.environ["AZURE_OPENAI_API_KEY"] = ""
 
 
 retriever = AzureAISearchRetriever(
