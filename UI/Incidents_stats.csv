@@ -1,0 +1,1001 @@
+Category,Severity,Priority,Resolution,Cost,Created Date,Resolved Date,Time to Resolve
+Infrastructure Management,High,1,Close,58475,4/2/2024,4/4/2024,2 days
+Policy violations,Low,3,Open,78475,8/18/2024,,
+Cybersecurity/Data Breach,Medium,2,Open,38237,7/30/2024,,
+Phishing attacks,Medium,2,Close,55337,2/20/2024,2/22/2024,2 days
+Phishing attacks,High,1,Open,64576,5/23/2024,,
+Policy violations,High,1,Close,30859,8/22/2024,8/23/2024,1 days
+Technical Issue,High,1,Close,74698,7/3/2024,7/4/2024,1 days
+Phishing attacks,Medium,2,Open,86900,8/31/2024,,
+Technical Issue,Medium,2,Close,50874,8/13/2024,8/15/2024,2 days
+Server down,High,1,Close,57223,1/26/2024,1/27/2024,1 days
+Cybersecurity/Data Breach,Low,3,Close,69984,8/23/2024,8/27/2024,4 days
+Server down,High,1,Close,74315,1/6/2024,1/7/2024,1 days
+SLA Violations,High,1,Close,55111,7/1/2024,7/3/2024,2 days
+Technical Issue,Low,3,Close,67183,4/10/2024,4/15/2024,5 days
+Misconfigurations in cloud services,High,1,Open,36862,8/1/2024,,
+Security Breach,Low,3,Close,31027,4/1/2024,4/6/2024,5 days
+SLA Violations,Low,3,Open,79002,3/15/2024,,
+Application Failure,Low,3,Close,66429,10/5/2024,10/10/2024,5 days
+Application Failure,Low,3,Open,83722,7/1/2024,,
+Network Performance,High,1,Close,64440,7/29/2024,7/30/2024,1 days
+Cybersecurity/Data Breach,Medium,2,Close,67414,8/1/2024,8/3/2024,2 days
+Cybersecurity/Data Breach,High,1,Close,88848,7/3/2024,7/4/2024,1 days
+Server down,High,1,Close,72811,6/3/2024,6/5/2024,2 days
+Infrastructure Management,High,1,Close,71967,9/5/2024,9/6/2024,1 days
+Phishing attacks,High,1,Close,49182,2/28/2024,3/1/2024,2 days
+Cybersecurity/Data Breach,Low,3,Open,38144,3/31/2024,,
+Technical Issue,Medium,2,Close,42906,9/3/2024,9/5/2024,2 days
+Technical Issue,Low,3,Close,47741,2/28/2024,3/4/2024,5 days
+Misconfigurations in cloud services,Low,3,Close,64854,7/22/2024,7/26/2024,4 days
+Policy violations,Low,3,Close,32053,5/31/2024,6/4/2024,4 days
+Security Breach,Medium,2,Close,86028,10/14/2024,10/17/2024,3 days
+Server down,Medium,2,Open,88793,1/6/2024,,
+Server down,Low,3,Close,74490,9/17/2024,9/21/2024,4 days
+Phishing attacks,High,1,Open,77922,10/28/2024,,
+Phishing attacks,Medium,2,Open,42480,1/25/2024,,
+Misconfigurations in cloud services,Medium,2,Close,44856,3/2/2024,3/4/2024,2 days
+Policy violations,Low,3,Open,56671,10/21/2024,,
+Technical Issue,Low,3,Open,80782,8/17/2024,,
+Misconfigurations in cloud services,Low,3,Open,69597,1/17/2024,,
+Application Failure,High,1,Close,69660,4/27/2024,4/29/2024,2 days
+Application Failure,Medium,2,Close,86767,10/29/2024,11/1/2024,3 days
+Security Breach,High,1,Close,73360,1/13/2024,1/14/2024,1 days
+Security Breach,Low,3,Open,64300,4/14/2024,,
+Phishing attacks,High,1,Close,40512,7/2/2024,7/4/2024,2 days
+Misconfigurations in cloud services,High,1,Open,74572,8/18/2024,,
+Infrastructure Management,Medium,2,Open,50520,10/6/2024,,
+Technical Issue,Low,3,Close,73573,5/30/2024,6/3/2024,4 days
+Application Failure,Medium,2,Close,88435,10/4/2024,10/7/2024,3 days
+Policy violations,Medium,2,Close,80020,11/2/2024,11/5/2024,3 days
+Technical Issue,Low,3,Open,40438,6/14/2024,,
+Policy violations,Medium,2,Close,84113,6/2/2024,6/5/2024,3 days
+Phishing attacks,Medium,2,Close,89853,10/9/2024,10/11/2024,2 days
+Security Breach,High,1,Open,72712,11/7/2024,,
+Technical Issue,High,1,Close,70541,8/12/2024,8/14/2024,2 days
+SLA Violations,Medium,2,Open,35198,6/21/2024,,
+Application Failure,Medium,2,Open,85695,2/22/2024,,
+Application Failure,High,1,Close,40256,5/21/2024,5/23/2024,2 days
+Cybersecurity/Data Breach,High,1,Close,65311,2/7/2024,2/8/2024,1 days
+Technical Issue,Low,3,Open,54374,1/14/2024,,
+Security Breach,Low,3,Open,60758,2/22/2024,,
+SLA Violations,Low,3,Close,68839,7/11/2024,7/16/2024,5 days
+Server down,Low,3,Open,64849,3/25/2024,,
+Infrastructure Management,High,1,Close,68662,4/10/2024,4/12/2024,2 days
+Technical Issue,Medium,2,Close,69372,9/17/2024,9/19/2024,2 days
+Infrastructure Management,Medium,2,Close,48825,6/18/2024,6/20/2024,2 days
+Cybersecurity/Data Breach,Low,3,Open,48818,10/29/2024,,
+Technical Issue,High,1,Close,55491,8/31/2024,9/1/2024,1 days
+Misconfigurations in cloud services,Medium,2,Open,52905,4/26/2024,,
+SLA Violations,Medium,2,Open,47509,6/12/2024,,
+SLA Violations,Medium,2,Close,74269,7/15/2024,7/18/2024,3 days
+Network Performance,Low,3,Close,31016,5/29/2024,6/2/2024,4 days
+Phishing attacks,Medium,2,Close,36160,8/10/2024,8/13/2024,3 days
+Infrastructure Management,Medium,2,Close,36905,5/16/2024,5/19/2024,3 days
+Technical Issue,High,1,Close,37288,7/26/2024,7/27/2024,1 days
+Infrastructure Management,Low,3,Close,50566,8/15/2024,8/19/2024,4 days
+Application Failure,Low,3,Open,36740,6/7/2024,,
+SLA Violations,Low,3,Open,44930,8/14/2024,,
+Technical Issue,Low,3,Close,39425,3/31/2024,4/4/2024,4 days
+Server down,High,1,Close,31278,5/10/2024,5/12/2024,2 days
+Server down,High,1,Close,35145,9/21/2024,9/23/2024,2 days
+Network Performance,Medium,2,Open,63548,1/12/2024,,
+Application Failure,High,1,Open,76590,4/18/2024,,
+Technical Issue,High,1,Open,89623,8/23/2024,,
+Phishing attacks,Medium,2,Close,59251,9/17/2024,9/20/2024,3 days
+Misconfigurations in cloud services,Low,3,Open,65836,9/27/2024,,
+Phishing attacks,Medium,2,Open,78657,3/4/2024,,
+Phishing attacks,Low,3,Close,76848,9/28/2024,10/2/2024,4 days
+Policy violations,High,1,Open,31909,5/6/2024,,
+Technical Issue,High,1,Close,46977,7/29/2024,7/31/2024,2 days
+Network Performance,High,1,Open,45086,8/10/2024,,
+Policy violations,Medium,2,Open,45925,8/9/2024,,
+Phishing attacks,Low,3,Open,34108,2/10/2024,,
+Phishing attacks,Medium,2,Close,55183,10/4/2024,10/6/2024,2 days
+Phishing attacks,Low,3,Open,82245,9/11/2024,,
+Technical Issue,High,1,Close,84925,3/22/2024,3/23/2024,1 days
+Phishing attacks,Low,3,Close,47264,9/2/2024,9/6/2024,4 days
+Application Failure,Low,3,Close,86409,8/10/2024,8/15/2024,5 days
+Technical Issue,Medium,2,Open,74239,4/13/2024,,
+Server down,Medium,2,Open,84899,4/20/2024,,
+Policy violations,Low,3,Open,40814,2/18/2024,,
+Application Failure,Low,3,Open,59787,1/25/2024,,
+Application Failure,Low,3,Open,67505,7/6/2024,,
+SLA Violations,Medium,2,Close,60379,9/5/2024,9/8/2024,3 days
+Technical Issue,Low,3,Close,58983,7/6/2024,7/11/2024,5 days
+Technical Issue,High,1,Open,87031,2/4/2024,,
+Misconfigurations in cloud services,High,1,Close,62333,5/13/2024,5/14/2024,1 days
+Security Breach,Low,3,Open,84193,11/6/2024,,
+SLA Violations,Low,3,Open,49142,1/26/2024,,
+Network Performance,Low,3,Open,88785,6/8/2024,,
+Policy violations,Medium,2,Open,77439,2/28/2024,,
+Policy violations,High,1,Open,39966,1/8/2024,,
+Server down,High,1,Open,32536,4/24/2024,,
+Security Breach,Medium,2,Close,80708,6/14/2024,6/17/2024,3 days
+Misconfigurations in cloud services,Low,3,Close,39079,10/25/2024,10/29/2024,4 days
+Phishing attacks,Low,3,Open,30383,6/10/2024,,
+Technical Issue,Low,3,Open,55698,2/16/2024,,
+SLA Violations,Low,3,Close,51445,1/18/2024,1/23/2024,5 days
+Application Failure,Low,3,Close,58346,8/22/2024,8/27/2024,5 days
+Security Breach,Low,3,Close,71227,8/26/2024,8/30/2024,4 days
+Technical Issue,Low,3,Open,88119,10/22/2024,,
+Policy violations,Medium,2,Close,85568,1/18/2024,1/21/2024,3 days
+Network Performance,Medium,2,Close,36352,5/26/2024,5/28/2024,2 days
+Misconfigurations in cloud services,Low,3,Close,32843,10/6/2024,10/10/2024,4 days
+Infrastructure Management,Low,3,Close,38094,8/15/2024,8/19/2024,4 days
+Misconfigurations in cloud services,Low,3,Open,56879,5/8/2024,,
+Security Breach,Medium,2,Open,62976,8/1/2024,,
+Server down,Low,3,Close,37348,4/18/2024,4/22/2024,4 days
+Technical Issue,Medium,2,Close,73146,7/15/2024,7/18/2024,3 days
+Technical Issue,High,1,Open,72476,4/1/2024,,
+Security Breach,Low,3,Close,60401,1/14/2024,1/19/2024,5 days
+Policy violations,High,1,Close,76557,4/30/2024,5/1/2024,1 days
+Phishing attacks,High,1,Close,66150,1/3/2024,1/4/2024,1 days
+Security Breach,Low,3,Close,53544,1/30/2024,2/4/2024,5 days
+Misconfigurations in cloud services,Medium,2,Close,83807,2/11/2024,2/14/2024,3 days
+Security Breach,Low,3,Open,76084,8/20/2024,,
+Policy violations,Medium,2,Open,83699,7/26/2024,,
+Application Failure,Medium,2,Open,56132,1/13/2024,,
+Server down,High,1,Close,31723,3/17/2024,3/19/2024,2 days
+Application Failure,High,1,Open,44170,6/7/2024,,
+Server down,Low,3,Close,38493,4/23/2024,4/28/2024,5 days
+Policy violations,Low,3,Close,70343,8/25/2024,8/29/2024,4 days
+Security Breach,High,1,Open,53581,4/12/2024,,
+Security Breach,Low,3,Open,66813,3/1/2024,,
+Infrastructure Management,Low,3,Open,81476,9/24/2024,,
+Infrastructure Management,High,1,Open,68129,1/17/2024,,
+Phishing attacks,Low,3,Open,72521,5/11/2024,,
+Security Breach,Low,3,Close,89379,5/1/2024,5/5/2024,4 days
+SLA Violations,Low,3,Open,33244,5/19/2024,,
+Cybersecurity/Data Breach,Medium,2,Close,36904,2/23/2024,2/26/2024,3 days
+Phishing attacks,High,1,Open,74055,5/26/2024,,
+Misconfigurations in cloud services,Low,3,Close,32298,5/26/2024,5/30/2024,4 days
+Application Failure,Medium,2,Close,79420,6/27/2024,6/30/2024,3 days
+Cybersecurity/Data Breach,Medium,2,Open,86238,7/20/2024,,
+Phishing attacks,High,1,Close,65514,5/29/2024,5/30/2024,1 days
+Misconfigurations in cloud services,Low,3,Close,77955,9/7/2024,9/12/2024,5 days
+Server down,Low,3,Close,45441,8/19/2024,8/24/2024,5 days
+SLA Violations,Medium,2,Open,64588,9/21/2024,,
+Application Failure,Low,3,Close,87497,8/5/2024,8/9/2024,4 days
+SLA Violations,Medium,2,Open,47373,2/9/2024,,
+Security Breach,Low,3,Open,73430,8/28/2024,,
+Policy violations,Medium,2,Open,30928,11/11/2024,,
+Server down,Medium,2,Close,60157,7/15/2024,7/17/2024,2 days
+Technical Issue,Low,3,Open,75428,4/15/2024,,
+Infrastructure Management,Low,3,Close,87044,6/16/2024,6/21/2024,5 days
+Misconfigurations in cloud services,Medium,2,Open,72021,9/3/2024,,
+Phishing attacks,High,1,Open,47537,10/6/2024,,
+Phishing attacks,Low,3,Close,45988,10/4/2024,10/8/2024,4 days
+Server down,Low,3,Open,49596,4/2/2024,,
+SLA Violations,High,1,Open,44067,4/26/2024,,
+Technical Issue,Low,3,Close,82607,6/18/2024,6/22/2024,4 days
+Server down,High,1,Open,30203,4/10/2024,,
+SLA Violations,Medium,2,Open,73891,7/21/2024,,
+Policy violations,High,1,Close,66595,4/27/2024,4/29/2024,2 days
+Policy violations,Low,3,Close,53632,7/31/2024,8/4/2024,4 days
+Network Performance,High,1,Close,40485,5/11/2024,5/13/2024,2 days
+Phishing attacks,Low,3,Open,77863,1/5/2024,,
+Infrastructure Management,High,1,Close,85752,11/2/2024,11/4/2024,2 days
+SLA Violations,Low,3,Open,89976,6/10/2024,,
+Misconfigurations in cloud services,Medium,2,Close,32094,8/13/2024,8/16/2024,3 days
+Server down,Low,3,Close,81931,5/2/2024,5/7/2024,5 days
+Policy violations,High,1,Close,78839,1/8/2024,1/10/2024,2 days
+SLA Violations,Low,3,Close,81663,5/26/2024,5/31/2024,5 days
+Cybersecurity/Data Breach,High,1,Close,48153,8/27/2024,8/29/2024,2 days
+SLA Violations,Medium,2,Open,71442,8/16/2024,,
+Phishing attacks,High,1,Open,81442,9/2/2024,,
+Application Failure,Low,3,Open,39182,2/21/2024,,
+Cybersecurity/Data Breach,Low,3,Open,42895,1/24/2024,,
+Infrastructure Management,High,1,Open,40548,9/3/2024,,
+SLA Violations,Medium,2,Open,56395,8/31/2024,,
+Cybersecurity/Data Breach,Medium,2,Open,79606,5/9/2024,,
+Policy violations,High,1,Close,85569,6/30/2024,7/2/2024,2 days
+Misconfigurations in cloud services,High,1,Close,75869,5/17/2024,5/19/2024,2 days
+Infrastructure Management,Low,3,Close,64069,9/20/2024,9/25/2024,5 days
+Security Breach,High,1,Open,86936,5/16/2024,,
+Technical Issue,Low,3,Close,54858,8/24/2024,8/29/2024,5 days
+Cybersecurity/Data Breach,Low,3,Open,39761,10/1/2024,,
+Policy violations,Low,3,Open,83402,4/18/2024,,
+Server down,Medium,2,Close,38427,10/13/2024,10/16/2024,3 days
+Technical Issue,Low,3,Open,58813,7/9/2024,,
+Cybersecurity/Data Breach,Low,3,Close,62797,1/9/2024,1/13/2024,4 days
+Server down,Medium,2,Open,62914,8/16/2024,,
+Security Breach,Low,3,Open,38631,1/24/2024,,
+Cybersecurity/Data Breach,Low,3,Close,41489,9/19/2024,9/23/2024,4 days
+Policy violations,High,1,Close,39805,1/9/2024,1/10/2024,1 days
+Network Performance,Medium,2,Close,39254,5/23/2024,5/26/2024,3 days
+Security Breach,Medium,2,Close,32788,4/7/2024,4/9/2024,2 days
+Technical Issue,Medium,2,Close,81537,8/31/2024,9/2/2024,2 days
+Network Performance,Medium,2,Open,60708,6/26/2024,,
+Phishing attacks,Low,3,Open,56296,4/25/2024,,
+Phishing attacks,Medium,2,Open,54256,8/18/2024,,
+Phishing attacks,Medium,2,Close,78009,8/21/2024,8/23/2024,2 days
+Server down,Medium,2,Close,50114,5/4/2024,5/7/2024,3 days
+Technical Issue,Medium,2,Close,74104,3/9/2024,3/12/2024,3 days
+Misconfigurations in cloud services,High,1,Open,57554,5/21/2024,,
+SLA Violations,Medium,2,Open,66008,3/12/2024,,
+Network Performance,High,1,Close,56921,5/1/2024,5/3/2024,2 days
+Phishing attacks,High,1,Open,46607,10/21/2024,,
+Application Failure,Low,3,Close,35859,5/23/2024,5/28/2024,5 days
+Phishing attacks,Medium,2,Open,35674,8/19/2024,,
+Policy violations,Medium,2,Close,32380,4/12/2024,4/15/2024,3 days
+Cybersecurity/Data Breach,High,1,Open,87820,4/26/2024,,
+Server down,High,1,Close,82204,11/1/2024,11/2/2024,1 days
+Policy violations,Low,3,Open,44397,5/26/2024,,
+Cybersecurity/Data Breach,Low,3,Close,36775,2/10/2024,2/15/2024,5 days
+Application Failure,Medium,2,Close,57742,10/26/2024,10/28/2024,2 days
+Phishing attacks,Low,3,Close,66121,11/11/2024,11/15/2024,4 days
+Security Breach,Medium,2,Close,84076,1/11/2024,1/13/2024,2 days
+Security Breach,High,1,Close,81534,8/9/2024,8/11/2024,2 days
+Application Failure,Medium,2,Open,81006,9/22/2024,,
+Technical Issue,Low,3,Open,55529,10/12/2024,,
+Technical Issue,Low,3,Open,57293,2/21/2024,,
+Cybersecurity/Data Breach,Low,3,Close,48340,4/30/2024,5/5/2024,5 days
+SLA Violations,Medium,2,Close,52546,7/13/2024,7/15/2024,2 days
+Cybersecurity/Data Breach,Medium,2,Close,80360,3/27/2024,3/29/2024,2 days
+Misconfigurations in cloud services,Low,3,Open,44032,9/10/2024,,
+Server down,Medium,2,Close,77983,11/8/2024,11/11/2024,3 days
+Cybersecurity/Data Breach,Medium,2,Open,64680,4/14/2024,,
+Infrastructure Management,Low,3,Open,35406,4/2/2024,,
+Policy violations,Low,3,Open,51132,5/7/2024,,
+Application Failure,Medium,2,Open,55225,3/13/2024,,
+Cybersecurity/Data Breach,Low,3,Close,61936,9/20/2024,9/24/2024,4 days
+Misconfigurations in cloud services,Low,3,Close,61957,6/18/2024,6/22/2024,4 days
+Network Performance,Medium,2,Close,70892,9/9/2024,9/11/2024,2 days
+Policy violations,High,1,Open,78855,9/28/2024,,
+SLA Violations,Medium,2,Open,62679,2/7/2024,,
+SLA Violations,Medium,2,Close,81791,2/9/2024,2/12/2024,3 days
+Application Failure,Medium,2,Open,78700,8/21/2024,,
+Policy violations,Medium,2,Open,30354,5/5/2024,,
+Security Breach,High,1,Open,83818,5/9/2024,,
+Infrastructure Management,Low,3,Open,86539,9/19/2024,,
+Phishing attacks,Medium,2,Open,64402,3/28/2024,,
+Phishing attacks,High,1,Open,43325,6/19/2024,,
+Cybersecurity/Data Breach,Low,3,Open,82843,11/10/2024,,
+Misconfigurations in cloud services,Medium,2,Open,48326,3/6/2024,,
+Server down,Medium,2,Close,55649,2/1/2024,2/3/2024,2 days
+Infrastructure Management,Medium,2,Open,71148,5/10/2024,,
+Phishing attacks,Medium,2,Open,38810,10/15/2024,,
+Network Performance,Medium,2,Close,59532,9/9/2024,9/12/2024,3 days
+Phishing attacks,High,1,Open,66504,3/25/2024,,
+Policy violations,Medium,2,Open,32736,8/8/2024,,
+Network Performance,High,1,Open,57982,6/24/2024,,
+Phishing attacks,Medium,2,Open,41879,4/15/2024,,
+Application Failure,Low,3,Close,88045,3/28/2024,4/1/2024,4 days
+Infrastructure Management,Medium,2,Close,57736,11/1/2024,11/4/2024,3 days
+Server down,High,1,Open,46493,2/16/2024,,
+SLA Violations,Medium,2,Close,89443,1/14/2024,1/17/2024,3 days
+Server down,Low,3,Open,88072,7/24/2024,,
+Cybersecurity/Data Breach,High,1,Close,78103,3/15/2024,3/17/2024,2 days
+Policy violations,High,1,Open,77066,5/2/2024,,
+Policy violations,High,1,Close,39657,11/9/2024,11/11/2024,2 days
+Phishing attacks,High,1,Close,86243,8/11/2024,8/13/2024,2 days
+Network Performance,Low,3,Open,83163,3/12/2024,,
+Phishing attacks,High,1,Close,80080,4/18/2024,4/20/2024,2 days
+Misconfigurations in cloud services,Low,3,Close,31381,5/12/2024,5/16/2024,4 days
+Infrastructure Management,Low,3,Close,88339,11/9/2024,11/14/2024,5 days
+Application Failure,Low,3,Close,46271,9/6/2024,9/10/2024,4 days
+Network Performance,Low,3,Close,71573,2/3/2024,2/7/2024,4 days
+Network Performance,High,1,Close,81174,11/9/2024,11/10/2024,1 days
+Misconfigurations in cloud services,Medium,2,Close,33126,8/28/2024,8/30/2024,2 days
+Server down,Low,3,Open,39208,5/14/2024,,
+Technical Issue,Medium,2,Open,40298,8/16/2024,,
+Server down,Low,3,Close,82060,2/20/2024,2/25/2024,5 days
+Misconfigurations in cloud services,Medium,2,Open,34364,6/12/2024,,
+Policy violations,Medium,2,Open,66840,4/23/2024,,
+Misconfigurations in cloud services,High,1,Open,71879,7/20/2024,,
+Cybersecurity/Data Breach,Low,3,Open,56813,11/4/2024,,
+Phishing attacks,High,1,Open,85265,4/15/2024,,
+Technical Issue,Medium,2,Open,44302,6/29/2024,,
+Server down,Medium,2,Close,69305,5/14/2024,5/16/2024,2 days
+Server down,High,1,Close,87034,9/3/2024,9/4/2024,1 days
+SLA Violations,High,1,Close,48041,6/10/2024,6/12/2024,2 days
+Infrastructure Management,Low,3,Open,31736,4/22/2024,,
+Policy violations,High,1,Close,53488,6/12/2024,6/13/2024,1 days
+Server down,Low,3,Close,89294,8/8/2024,8/13/2024,5 days
+Misconfigurations in cloud services,Medium,2,Open,41358,6/8/2024,,
+Phishing attacks,Low,3,Close,51918,1/14/2024,1/18/2024,4 days
+Technical Issue,High,1,Close,34717,6/9/2024,6/11/2024,2 days
+Application Failure,Low,3,Open,36298,3/1/2024,,
+Misconfigurations in cloud services,Medium,2,Close,38783,3/18/2024,3/21/2024,3 days
+Server down,Medium,2,Open,62895,1/2/2024,,
+Application Failure,High,1,Open,57557,7/4/2024,,
+Policy violations,High,1,Close,71460,8/29/2024,8/31/2024,2 days
+Policy violations,High,1,Open,54722,7/17/2024,,
+Network Performance,High,1,Open,30650,6/17/2024,,
+Server down,Low,3,Close,67438,8/5/2024,8/9/2024,4 days
+Phishing attacks,Low,3,Open,31816,10/5/2024,,
+Policy violations,Low,3,Close,56883,3/27/2024,4/1/2024,5 days
+Security Breach,Low,3,Open,51551,1/13/2024,,
+Network Performance,Medium,2,Open,87723,10/16/2024,,
+Policy violations,Medium,2,Close,53642,6/26/2024,6/29/2024,3 days
+Policy violations,Low,3,Open,36818,10/19/2024,,
+Misconfigurations in cloud services,High,1,Open,77142,9/14/2024,,
+Policy violations,High,1,Open,84424,10/17/2024,,
+SLA Violations,Medium,2,Close,33007,7/20/2024,7/22/2024,2 days
+Infrastructure Management,Low,3,Close,44161,4/22/2024,4/27/2024,5 days
+Phishing attacks,Low,3,Close,65902,7/30/2024,8/3/2024,4 days
+Security Breach,Medium,2,Close,52899,5/12/2024,5/14/2024,2 days
+Policy violations,Low,3,Open,39389,3/29/2024,,
+Network Performance,Medium,2,Open,87481,1/27/2024,,
+Application Failure,Medium,2,Open,58623,8/16/2024,,
+Security Breach,Low,3,Close,64253,4/21/2024,4/25/2024,4 days
+Application Failure,Medium,2,Close,85383,2/16/2024,2/19/2024,3 days
+Phishing attacks,Low,3,Close,42324,11/10/2024,11/15/2024,5 days
+Policy violations,Medium,2,Close,40688,4/4/2024,4/6/2024,2 days
+Phishing attacks,Medium,2,Close,42696,1/18/2024,1/21/2024,3 days
+Network Performance,Medium,2,Open,76709,1/14/2024,,
+SLA Violations,Low,3,Close,73085,11/7/2024,11/11/2024,4 days
+SLA Violations,High,1,Open,32184,9/26/2024,,
+Cybersecurity/Data Breach,High,1,Open,61164,7/17/2024,,
+Misconfigurations in cloud services,Medium,2,Close,47592,3/18/2024,3/21/2024,3 days
+Application Failure,Low,3,Open,85894,6/15/2024,,
+Technical Issue,Low,3,Open,35855,8/12/2024,,
+Security Breach,High,1,Close,80303,1/20/2024,1/21/2024,1 days
+Cybersecurity/Data Breach,High,1,Open,63022,1/6/2024,,
+Infrastructure Management,Medium,2,Open,54719,7/5/2024,,
+Misconfigurations in cloud services,Low,3,Close,48386,10/16/2024,10/21/2024,5 days
+Policy violations,High,1,Close,82910,2/16/2024,2/17/2024,1 days
+Cybersecurity/Data Breach,High,1,Open,41862,3/7/2024,,
+Cybersecurity/Data Breach,Low,3,Close,66175,7/14/2024,7/19/2024,5 days
+Cybersecurity/Data Breach,Low,3,Close,40141,4/26/2024,5/1/2024,5 days
+Security Breach,High,1,Close,34196,4/2/2024,4/4/2024,2 days
+Policy violations,Medium,2,Open,78855,9/14/2024,,
+Application Failure,High,1,Open,33648,1/8/2024,,
+Technical Issue,Medium,2,Open,63194,7/22/2024,,
+Cybersecurity/Data Breach,High,1,Close,42777,7/27/2024,7/28/2024,1 days
+Misconfigurations in cloud services,Medium,2,Open,46149,6/9/2024,,
+SLA Violations,Medium,2,Open,32496,1/21/2024,,
+Misconfigurations in cloud services,High,1,Open,62535,8/25/2024,,
+Server down,High,1,Open,61223,2/14/2024,,
+Infrastructure Management,Medium,2,Close,67555,5/12/2024,5/14/2024,2 days
+Policy violations,Low,3,Open,31254,2/18/2024,,
+SLA Violations,Medium,2,Close,40174,4/8/2024,4/11/2024,3 days
+Application Failure,High,1,Open,45527,7/29/2024,,
+Infrastructure Management,Low,3,Close,42201,7/4/2024,7/9/2024,5 days
+Misconfigurations in cloud services,Medium,2,Open,67484,11/11/2024,,
+Technical Issue,High,1,Open,89778,10/30/2024,,
+Technical Issue,Low,3,Open,57165,1/24/2024,,
+Server down,Low,3,Open,59544,5/16/2024,,
+Policy violations,Medium,2,Close,40352,3/26/2024,3/28/2024,2 days
+Network Performance,Medium,2,Close,49819,3/17/2024,3/19/2024,2 days
+Application Failure,High,1,Close,50580,2/17/2024,2/18/2024,1 days
+Policy violations,Medium,2,Open,40464,7/26/2024,,
+Server down,Medium,2,Open,39608,11/13/2024,,
+Infrastructure Management,High,1,Open,66332,2/16/2024,,
+Misconfigurations in cloud services,High,1,Close,60600,3/7/2024,3/8/2024,1 days
+Technical Issue,High,1,Close,65930,4/2/2024,4/4/2024,2 days
+Infrastructure Management,Low,3,Close,77200,11/3/2024,11/8/2024,5 days
+Cybersecurity/Data Breach,Medium,2,Open,85349,4/16/2024,,
+Server down,Medium,2,Open,58015,11/9/2024,,
+Policy violations,Medium,2,Open,61651,2/19/2024,,
+Cybersecurity/Data Breach,Low,3,Open,43316,1/3/2024,,
+Infrastructure Management,Low,3,Close,48222,7/8/2024,7/12/2024,4 days
+Application Failure,High,1,Open,87466,9/1/2024,,
+Policy violations,Medium,2,Open,87655,8/9/2024,,
+Cybersecurity/Data Breach,High,1,Close,65594,6/4/2024,6/6/2024,2 days
+Application Failure,Medium,2,Close,55006,1/20/2024,1/23/2024,3 days
+Infrastructure Management,Medium,2,Close,74079,10/20/2024,10/23/2024,3 days
+SLA Violations,Low,3,Open,30043,4/15/2024,,
+Phishing attacks,Medium,2,Open,63222,4/6/2024,,
+Phishing attacks,Medium,2,Open,42206,4/14/2024,,
+Cybersecurity/Data Breach,Low,3,Close,66322,8/28/2024,9/2/2024,5 days
+Cybersecurity/Data Breach,Medium,2,Open,41980,7/23/2024,,
+Security Breach,Medium,2,Open,33951,7/20/2024,,
+Phishing attacks,Medium,2,Close,52370,6/13/2024,6/15/2024,2 days
+Infrastructure Management,Low,3,Close,86418,1/20/2024,1/24/2024,4 days
+Infrastructure Management,Low,3,Open,68571,7/2/2024,,
+Technical Issue,Medium,2,Close,31325,5/5/2024,5/8/2024,3 days
+Server down,Low,3,Open,38789,10/28/2024,,
+Infrastructure Management,Medium,2,Open,45584,1/1/2024,,
+Cybersecurity/Data Breach,High,1,Close,46706,1/22/2024,1/24/2024,2 days
+Misconfigurations in cloud services,Medium,2,Close,44709,10/28/2024,10/30/2024,2 days
+Misconfigurations in cloud services,High,1,Open,45535,2/19/2024,,
+Policy violations,Low,3,Open,84015,1/18/2024,,
+SLA Violations,Medium,2,Open,55483,2/18/2024,,
+Application Failure,Medium,2,Open,67731,1/20/2024,,
+Misconfigurations in cloud services,Low,3,Close,30347,1/27/2024,1/31/2024,4 days
+Misconfigurations in cloud services,Medium,2,Close,64048,7/6/2024,7/8/2024,2 days
+Server down,High,1,Close,64118,1/13/2024,1/14/2024,1 days
+Policy violations,Low,3,Close,46375,10/3/2024,10/8/2024,5 days
+Security Breach,Low,3,Close,41792,2/3/2024,2/8/2024,5 days
+Security Breach,Low,3,Open,32868,7/19/2024,,
+Cybersecurity/Data Breach,High,1,Open,63775,7/14/2024,,
+SLA Violations,Low,3,Close,78403,7/9/2024,7/14/2024,5 days
+Infrastructure Management,Medium,2,Close,32041,5/2/2024,5/5/2024,3 days
+Server down,High,1,Close,67433,3/1/2024,3/3/2024,2 days
+Infrastructure Management,Low,3,Open,83940,5/2/2024,,
+Policy violations,Low,3,Open,50279,1/28/2024,,
+SLA Violations,High,1,Open,51030,5/16/2024,,
+SLA Violations,High,1,Open,81364,5/29/2024,,
+Misconfigurations in cloud services,High,1,Open,58893,9/8/2024,,
+SLA Violations,High,1,Open,59448,5/31/2024,,
+Application Failure,Medium,2,Open,37401,8/15/2024,,
+Server down,Low,3,Open,83110,4/28/2024,,
+Application Failure,High,1,Open,40739,5/20/2024,,
+Cybersecurity/Data Breach,Medium,2,Close,58112,4/12/2024,4/14/2024,2 days
+Policy violations,Low,3,Close,65091,3/15/2024,3/20/2024,5 days
+Misconfigurations in cloud services,High,1,Close,59810,5/7/2024,5/8/2024,1 days
+Application Failure,High,1,Close,82548,6/15/2024,6/17/2024,2 days
+Phishing attacks,High,1,Close,83727,2/18/2024,2/19/2024,1 days
+Security Breach,Low,3,Close,84285,2/19/2024,2/23/2024,4 days
+Misconfigurations in cloud services,Medium,2,Open,43601,8/3/2024,,
+Phishing attacks,Low,3,Close,42207,1/2/2024,1/7/2024,5 days
+Misconfigurations in cloud services,High,1,Open,59159,10/5/2024,,
+Security Breach,Medium,2,Open,62728,10/7/2024,,
+Phishing attacks,Low,3,Open,65932,5/27/2024,,
+Cybersecurity/Data Breach,Low,3,Close,75708,11/4/2024,11/9/2024,5 days
+Technical Issue,Medium,2,Close,41929,2/1/2024,2/3/2024,2 days
+Security Breach,High,1,Open,80605,8/8/2024,,
+Server down,Low,3,Close,46877,3/10/2024,3/15/2024,5 days
+Phishing attacks,High,1,Close,63325,1/17/2024,1/18/2024,1 days
+Phishing attacks,High,1,Open,89460,5/24/2024,,
+Policy violations,High,1,Close,49282,6/27/2024,6/29/2024,2 days
+Misconfigurations in cloud services,High,1,Open,31842,8/22/2024,,
+Application Failure,High,1,Close,51974,9/9/2024,9/11/2024,2 days
+Policy violations,High,1,Open,71786,10/30/2024,,
+Security Breach,Medium,2,Close,59902,7/29/2024,7/31/2024,2 days
+Phishing attacks,High,1,Close,80678,5/27/2024,5/29/2024,2 days
+Policy violations,High,1,Open,31717,9/4/2024,,
+Misconfigurations in cloud services,Medium,2,Close,30109,11/7/2024,11/9/2024,2 days
+Infrastructure Management,Medium,2,Close,79103,1/17/2024,1/20/2024,3 days
+Technical Issue,Medium,2,Close,53800,8/29/2024,8/31/2024,2 days
+Phishing attacks,High,1,Open,87259,6/16/2024,,
+Cybersecurity/Data Breach,Low,3,Open,59777,1/21/2024,,
+SLA Violations,High,1,Close,48542,5/24/2024,5/25/2024,1 days
+Phishing attacks,Medium,2,Open,42264,8/31/2024,,
+Misconfigurations in cloud services,Low,3,Open,50349,7/11/2024,,
+Phishing attacks,Medium,2,Close,71279,10/22/2024,10/25/2024,3 days
+Technical Issue,Medium,2,Open,83061,9/29/2024,,
+Phishing attacks,High,1,Open,30541,5/2/2024,,
+Application Failure,Low,3,Close,38282,6/12/2024,6/17/2024,5 days
+Phishing attacks,Low,3,Close,40572,9/26/2024,9/30/2024,4 days
+Security Breach,High,1,Close,45745,6/11/2024,6/12/2024,1 days
+Network Performance,High,1,Open,30578,6/27/2024,,
+SLA Violations,Low,3,Close,30774,1/7/2024,1/12/2024,5 days
+Security Breach,High,1,Close,75284,4/5/2024,4/7/2024,2 days
+Application Failure,Medium,2,Close,42112,3/25/2024,3/27/2024,2 days
+Infrastructure Management,Medium,2,Open,33503,7/27/2024,,
+Application Failure,Medium,2,Open,80860,4/14/2024,,
+Phishing attacks,Medium,2,Close,64163,9/26/2024,9/28/2024,2 days
+SLA Violations,Low,3,Open,75391,8/17/2024,,
+Infrastructure Management,High,1,Open,58970,1/28/2024,,
+Server down,Medium,2,Open,59659,11/7/2024,,
+Misconfigurations in cloud services,High,1,Open,75015,6/14/2024,,
+Phishing attacks,High,1,Open,61546,3/28/2024,,
+Technical Issue,High,1,Open,39993,6/14/2024,,
+Misconfigurations in cloud services,Medium,2,Open,34336,2/20/2024,,
+Security Breach,Low,3,Open,36460,1/11/2024,,
+Technical Issue,Medium,2,Close,75152,5/6/2024,5/9/2024,3 days
+Application Failure,Low,3,Open,55365,5/25/2024,,
+Misconfigurations in cloud services,High,1,Close,62963,8/5/2024,8/7/2024,2 days
+Infrastructure Management,Medium,2,Open,37021,11/3/2024,,
+Security Breach,Low,3,Close,86952,4/11/2024,4/15/2024,4 days
+Application Failure,High,1,Close,68801,2/17/2024,2/19/2024,2 days
+Technical Issue,Medium,2,Open,34863,6/29/2024,,
+Server down,Low,3,Open,61129,9/25/2024,,
+Security Breach,Medium,2,Open,89957,2/17/2024,,
+Infrastructure Management,Medium,2,Open,71731,11/11/2024,,
+Security Breach,High,1,Close,76298,10/11/2024,10/12/2024,1 days
+Phishing attacks,High,1,Close,77700,9/14/2024,9/15/2024,1 days
+Cybersecurity/Data Breach,High,1,Close,31498,7/24/2024,7/26/2024,2 days
+Network Performance,Low,3,Close,33432,11/3/2024,11/8/2024,5 days
+Misconfigurations in cloud services,Medium,2,Open,67101,5/26/2024,,
+Policy violations,Low,3,Close,66867,9/16/2024,9/20/2024,4 days
+Policy violations,Low,3,Close,42409,2/12/2024,2/16/2024,4 days
+Cybersecurity/Data Breach,Medium,2,Close,87732,10/11/2024,10/14/2024,3 days
+Security Breach,High,1,Close,34302,5/3/2024,5/5/2024,2 days
+Misconfigurations in cloud services,Low,3,Open,46231,8/6/2024,,
+Policy violations,High,1,Open,66404,7/25/2024,,
+Cybersecurity/Data Breach,Medium,2,Close,58234,2/10/2024,2/12/2024,2 days
+Technical Issue,Low,3,Open,85600,11/11/2024,,
+Security Breach,High,1,Open,87867,8/16/2024,,
+Network Performance,Medium,2,Close,86304,10/5/2024,10/8/2024,3 days
+Technical Issue,High,1,Open,48953,1/2/2024,,
+Misconfigurations in cloud services,Medium,2,Open,39626,7/2/2024,,
+Application Failure,Low,3,Close,63205,2/25/2024,2/29/2024,4 days
+Network Performance,Medium,2,Close,32930,4/1/2024,4/4/2024,3 days
+Security Breach,Medium,2,Open,54617,10/27/2024,,
+Security Breach,High,1,Close,67361,5/30/2024,6/1/2024,2 days
+Application Failure,Low,3,Close,57264,1/18/2024,1/23/2024,5 days
+Technical Issue,Low,3,Close,87239,7/23/2024,7/28/2024,5 days
+Cybersecurity/Data Breach,High,1,Close,89011,2/5/2024,2/7/2024,2 days
+Misconfigurations in cloud services,High,1,Close,33569,8/7/2024,8/8/2024,1 days
+Network Performance,High,1,Close,75692,2/8/2024,2/9/2024,1 days
+Misconfigurations in cloud services,High,1,Open,33843,9/13/2024,,
+Misconfigurations in cloud services,Medium,2,Open,63228,5/25/2024,,
+Technical Issue,High,1,Open,44976,3/10/2024,,
+SLA Violations,Low,3,Open,35729,1/10/2024,,
+Policy violations,High,1,Close,78367,5/12/2024,5/14/2024,2 days
+Policy violations,Low,3,Close,53873,2/17/2024,2/21/2024,4 days
+Server down,Medium,2,Open,54455,1/10/2024,,
+Technical Issue,High,1,Close,77142,2/14/2024,2/16/2024,2 days
+Policy violations,High,1,Open,32195,9/18/2024,,
+SLA Violations,Medium,2,Close,31546,7/6/2024,7/9/2024,3 days
+Policy violations,Low,3,Close,58260,9/27/2024,10/2/2024,5 days
+SLA Violations,Medium,2,Open,74363,4/20/2024,,
+Phishing attacks,Low,3,Open,58160,8/12/2024,,
+Technical Issue,Medium,2,Open,54941,4/26/2024,,
+Application Failure,High,1,Close,55530,11/6/2024,11/8/2024,2 days
+Server down,High,1,Open,80592,2/4/2024,,
+Policy violations,Low,3,Close,44983,1/15/2024,1/19/2024,4 days
+SLA Violations,Low,3,Close,81481,10/25/2024,10/29/2024,4 days
+Network Performance,Medium,2,Open,85686,8/6/2024,,
+Security Breach,Low,3,Open,47641,7/17/2024,,
+Network Performance,Medium,2,Open,61254,7/24/2024,,
+Network Performance,Medium,2,Open,74173,10/4/2024,,
+Server down,Low,3,Open,38210,4/2/2024,,
+Server down,High,1,Open,39203,2/11/2024,,
+Server down,Low,3,Close,89954,8/3/2024,8/8/2024,5 days
+Cybersecurity/Data Breach,Medium,2,Close,57529,10/17/2024,10/19/2024,2 days
+Server down,High,1,Close,45844,2/8/2024,2/9/2024,1 days
+Application Failure,Medium,2,Close,45465,8/2/2024,8/4/2024,2 days
+Infrastructure Management,High,1,Open,39007,1/24/2024,,
+Cybersecurity/Data Breach,High,1,Close,39890,8/1/2024,8/3/2024,2 days
+Application Failure,High,1,Open,80671,5/5/2024,,
+Technical Issue,Low,3,Close,60336,8/7/2024,8/11/2024,4 days
+Security Breach,High,1,Close,74557,3/11/2024,3/12/2024,1 days
+Misconfigurations in cloud services,Medium,2,Close,47314,1/31/2024,2/2/2024,2 days
+Network Performance,Medium,2,Close,50206,4/4/2024,4/6/2024,2 days
+Infrastructure Management,Low,3,Open,75882,3/10/2024,,
+Misconfigurations in cloud services,Medium,2,Open,47422,9/7/2024,,
+Network Performance,High,1,Close,43102,4/7/2024,4/9/2024,2 days
+Misconfigurations in cloud services,High,1,Close,30331,6/25/2024,6/27/2024,2 days
+Technical Issue,Low,3,Close,65171,8/27/2024,9/1/2024,5 days
+Security Breach,Low,3,Close,55611,9/28/2024,10/3/2024,5 days
+Infrastructure Management,Medium,2,Open,45042,10/19/2024,,
+Policy violations,Medium,2,Open,51264,6/1/2024,,
+Network Performance,Low,3,Open,46001,4/8/2024,,
+Server down,High,1,Close,33740,5/22/2024,5/23/2024,1 days
+Policy violations,Low,3,Close,74605,8/20/2024,8/25/2024,5 days
+Security Breach,Low,3,Open,63018,6/3/2024,,
+Cybersecurity/Data Breach,High,1,Close,66562,5/16/2024,5/18/2024,2 days
+Application Failure,High,1,Open,71892,8/4/2024,,
+Technical Issue,High,1,Open,51314,6/11/2024,,
+SLA Violations,Medium,2,Open,40276,2/2/2024,,
+SLA Violations,Medium,2,Close,77562,5/25/2024,5/27/2024,2 days
+Server down,Low,3,Open,56727,7/13/2024,,
+Phishing attacks,High,1,Close,79711,4/1/2024,4/2/2024,1 days
+Application Failure,Low,3,Open,49769,6/9/2024,,
+Network Performance,High,1,Close,37269,10/17/2024,10/18/2024,1 days
+Network Performance,Low,3,Close,44861,3/3/2024,3/7/2024,4 days
+Server down,High,1,Close,59061,6/10/2024,6/12/2024,2 days
+Infrastructure Management,Medium,2,Close,77686,9/25/2024,9/27/2024,2 days
+Infrastructure Management,Low,3,Open,65435,8/8/2024,,
+Server down,Medium,2,Open,64868,10/20/2024,,
+Misconfigurations in cloud services,Low,3,Close,70130,8/13/2024,8/17/2024,4 days
+Misconfigurations in cloud services,Medium,2,Close,68177,9/18/2024,9/21/2024,3 days
+Server down,Low,3,Open,89102,7/19/2024,,
+Network Performance,High,1,Open,86008,9/23/2024,,
+Network Performance,Low,3,Open,43432,7/6/2024,,
+SLA Violations,Low,3,Open,66214,3/1/2024,,
+Infrastructure Management,Low,3,Open,54785,9/6/2024,,
+Network Performance,Low,3,Open,33394,6/4/2024,,
+Technical Issue,Medium,2,Open,59149,2/27/2024,,
+Application Failure,High,1,Open,65995,3/4/2024,,
+Network Performance,High,1,Close,57764,2/7/2024,2/9/2024,2 days
+Infrastructure Management,High,1,Close,47666,7/12/2024,7/14/2024,2 days
+Phishing attacks,Medium,2,Close,63355,10/17/2024,10/20/2024,3 days
+Misconfigurations in cloud services,Medium,2,Open,64672,7/6/2024,,
+Server down,High,1,Close,89562,9/28/2024,9/30/2024,2 days
+Misconfigurations in cloud services,Medium,2,Open,58421,7/19/2024,,
+Application Failure,Medium,2,Open,46831,6/21/2024,,
+Technical Issue,Low,3,Close,66993,8/15/2024,8/20/2024,5 days
+Network Performance,High,1,Close,61940,10/6/2024,10/7/2024,1 days
+Application Failure,High,1,Open,53611,3/13/2024,,
+Cybersecurity/Data Breach,Low,3,Open,79320,2/22/2024,,
+SLA Violations,Low,3,Close,67608,4/13/2024,4/18/2024,5 days
+SLA Violations,Low,3,Close,59098,10/19/2024,10/24/2024,5 days
+Security Breach,Medium,2,Open,37254,3/18/2024,,
+SLA Violations,Low,3,Open,50214,2/26/2024,,
+Infrastructure Management,High,1,Close,75023,8/15/2024,8/17/2024,2 days
+Phishing attacks,Low,3,Close,35017,7/19/2024,7/23/2024,4 days
+Misconfigurations in cloud services,Medium,2,Close,71928,5/2/2024,5/4/2024,2 days
+Policy violations,Low,3,Open,35448,3/31/2024,,
+Infrastructure Management,High,1,Close,76777,9/25/2024,9/26/2024,1 days
+Infrastructure Management,High,1,Open,62181,7/27/2024,,
+Misconfigurations in cloud services,Low,3,Open,64890,10/29/2024,,
+SLA Violations,Low,3,Close,42175,4/24/2024,4/29/2024,5 days
+Phishing attacks,Medium,2,Open,78808,9/17/2024,,
+Misconfigurations in cloud services,Low,3,Close,59397,9/30/2024,10/4/2024,4 days
+Technical Issue,Low,3,Open,50602,6/9/2024,,
+SLA Violations,Medium,2,Open,81575,8/19/2024,,
+SLA Violations,Medium,2,Open,33228,8/15/2024,,
+Technical Issue,Low,3,Open,36499,8/15/2024,,
+Misconfigurations in cloud services,High,1,Close,67870,4/13/2024,4/14/2024,1 days
+Network Performance,High,1,Open,80535,3/25/2024,,
+Technical Issue,High,1,Close,56754,4/29/2024,5/1/2024,2 days
+Cybersecurity/Data Breach,Low,3,Close,52024,1/9/2024,1/13/2024,4 days
+Network Performance,Low,3,Open,64598,4/14/2024,,
+Application Failure,High,1,Close,67022,7/5/2024,7/6/2024,1 days
+Policy violations,Medium,2,Open,36708,11/8/2024,,
+Policy violations,Medium,2,Open,51023,5/28/2024,,
+Misconfigurations in cloud services,High,1,Open,74060,3/18/2024,,
+Misconfigurations in cloud services,High,1,Open,30338,3/7/2024,,
+Server down,Medium,2,Open,40584,8/9/2024,,
+Network Performance,Medium,2,Open,47019,5/19/2024,,
+Server down,High,1,Close,67415,4/2/2024,4/3/2024,1 days
+Technical Issue,Medium,2,Close,72371,5/5/2024,5/7/2024,2 days
+Infrastructure Management,Medium,2,Close,79463,7/6/2024,7/8/2024,2 days
+Application Failure,Medium,2,Close,56220,10/27/2024,10/30/2024,3 days
+Infrastructure Management,Medium,2,Close,83242,2/25/2024,2/27/2024,2 days
+Server down,High,1,Close,80669,6/11/2024,6/13/2024,2 days
+Technical Issue,High,1,Close,51019,9/27/2024,9/28/2024,1 days
+Cybersecurity/Data Breach,Low,3,Open,32674,7/5/2024,,
+Application Failure,Low,3,Open,74740,9/29/2024,,
+Technical Issue,Medium,2,Open,33058,8/20/2024,,
+Infrastructure Management,High,1,Close,47628,3/20/2024,3/21/2024,1 days
+Security Breach,High,1,Close,30482,6/30/2024,7/1/2024,1 days
+Security Breach,Low,3,Open,47654,8/13/2024,,
+Policy violations,High,1,Open,68205,9/10/2024,,
+Application Failure,Low,3,Close,89865,8/4/2024,8/9/2024,5 days
+Network Performance,Medium,2,Close,74663,1/11/2024,1/14/2024,3 days
+Technical Issue,Low,3,Close,54562,7/5/2024,7/9/2024,4 days
+Phishing attacks,Medium,2,Close,75565,10/6/2024,10/9/2024,3 days
+Infrastructure Management,Low,3,Open,84930,1/29/2024,,
+Cybersecurity/Data Breach,Low,3,Close,33449,6/4/2024,6/8/2024,4 days
+Server down,Low,3,Close,82939,10/31/2024,11/4/2024,4 days
+Policy violations,High,1,Open,44411,10/11/2024,,
+Network Performance,Low,3,Close,51174,1/18/2024,1/22/2024,4 days
+SLA Violations,High,1,Close,61318,6/30/2024,7/2/2024,2 days
+Application Failure,High,1,Open,83860,3/30/2024,,
+Cybersecurity/Data Breach,Medium,2,Close,33264,4/1/2024,4/3/2024,2 days
+Misconfigurations in cloud services,Medium,2,Open,52183,9/8/2024,,
+Policy violations,Medium,2,Close,82547,10/5/2024,10/8/2024,3 days
+SLA Violations,High,1,Close,65766,10/28/2024,10/30/2024,2 days
+Misconfigurations in cloud services,Low,3,Open,40141,9/19/2024,,
+Misconfigurations in cloud services,Medium,2,Open,87213,1/27/2024,,
+Cybersecurity/Data Breach,High,1,Open,76797,3/25/2024,,
+Network Performance,High,1,Close,30954,4/8/2024,4/10/2024,2 days
+Security Breach,High,1,Open,88721,4/4/2024,,
+SLA Violations,Low,3,Open,34106,3/14/2024,,
+Server down,Medium,2,Close,38470,10/28/2024,10/31/2024,3 days
+Phishing attacks,Low,3,Close,76591,4/10/2024,4/15/2024,5 days
+Security Breach,Low,3,Open,41677,2/23/2024,,
+SLA Violations,High,1,Close,58122,3/13/2024,3/15/2024,2 days
+Technical Issue,Low,3,Open,51683,8/29/2024,,
+Technical Issue,Medium,2,Open,73786,9/30/2024,,
+Cybersecurity/Data Breach,Medium,2,Open,66194,9/19/2024,,
+Cybersecurity/Data Breach,Low,3,Close,59357,1/15/2024,1/20/2024,5 days
+Security Breach,Low,3,Open,64914,4/9/2024,,
+Misconfigurations in cloud services,High,1,Open,63716,3/6/2024,,
+Network Performance,High,1,Close,46237,1/18/2024,1/20/2024,2 days
+Phishing attacks,Medium,2,Open,43750,5/1/2024,,
+Security Breach,Medium,2,Close,35529,3/12/2024,3/14/2024,2 days
+Policy violations,Low,3,Close,40549,6/13/2024,6/17/2024,4 days
+Misconfigurations in cloud services,High,1,Close,43208,2/5/2024,2/7/2024,2 days
+Infrastructure Management,Medium,2,Close,81434,10/10/2024,10/13/2024,3 days
+Cybersecurity/Data Breach,Medium,2,Close,73505,11/6/2024,11/9/2024,3 days
+Cybersecurity/Data Breach,High,1,Close,80718,2/3/2024,2/4/2024,1 days
+Application Failure,Low,3,Open,45085,2/15/2024,,
+Cybersecurity/Data Breach,Medium,2,Open,86565,2/5/2024,,
+Application Failure,Low,3,Open,53875,4/12/2024,,
+Application Failure,Medium,2,Open,38219,4/23/2024,,
+SLA Violations,High,1,Close,73614,1/15/2024,1/16/2024,1 days
+Policy violations,Low,3,Close,63428,5/18/2024,5/23/2024,5 days
+Phishing attacks,Medium,2,Open,49020,6/24/2024,,
+Application Failure,Medium,2,Open,89480,8/13/2024,,
+Technical Issue,High,1,Close,77739,10/12/2024,10/13/2024,1 days
+SLA Violations,Low,3,Close,61898,9/19/2024,9/24/2024,5 days
+Phishing attacks,Low,3,Close,66996,5/10/2024,5/14/2024,4 days
+SLA Violations,Medium,2,Close,37257,1/3/2024,1/6/2024,3 days
+Phishing attacks,Medium,2,Open,46265,1/12/2024,,
+Phishing attacks,Low,3,Open,76677,5/10/2024,,
+SLA Violations,Medium,2,Close,72769,5/8/2024,5/11/2024,3 days
+Cybersecurity/Data Breach,High,1,Open,45875,6/18/2024,,
+Application Failure,Medium,2,Open,66352,5/27/2024,,
+Security Breach,Low,3,Open,52415,7/7/2024,,
+SLA Violations,Medium,2,Close,70789,1/31/2024,2/3/2024,3 days
+Server down,Medium,2,Close,69342,3/22/2024,3/24/2024,2 days
+Server down,High,1,Close,30593,9/7/2024,9/9/2024,2 days
+Infrastructure Management,High,1,Close,70377,8/15/2024,8/16/2024,1 days
+SLA Violations,Medium,2,Open,80070,10/15/2024,,
+Policy violations,Medium,2,Close,54416,7/9/2024,7/12/2024,3 days
+Network Performance,Medium,2,Close,39327,5/31/2024,6/3/2024,3 days
+Application Failure,Medium,2,Close,70075,2/18/2024,2/20/2024,2 days
+Security Breach,High,1,Close,76892,7/30/2024,7/31/2024,1 days
+Phishing attacks,Low,3,Open,52979,5/3/2024,,
+Misconfigurations in cloud services,Medium,2,Close,31536,2/16/2024,2/18/2024,2 days
+Infrastructure Management,High,1,Close,39914,4/16/2024,4/18/2024,2 days
+Infrastructure Management,High,1,Close,66238,1/30/2024,1/31/2024,1 days
+Server down,Medium,2,Open,69068,9/15/2024,,
+Policy violations,Medium,2,Close,88427,6/16/2024,6/18/2024,2 days
+Misconfigurations in cloud services,Medium,2,Close,64678,2/13/2024,2/16/2024,3 days
+Server down,Low,3,Open,45320,6/19/2024,,
+Infrastructure Management,Medium,2,Open,32864,7/23/2024,,
+Cybersecurity/Data Breach,High,1,Open,72198,4/7/2024,,
+Security Breach,Medium,2,Open,48659,2/7/2024,,
+Cybersecurity/Data Breach,Medium,2,Open,37323,7/23/2024,,
+SLA Violations,Medium,2,Close,70716,9/29/2024,10/1/2024,2 days
+Phishing attacks,High,1,Open,57828,5/25/2024,,
+Policy violations,High,1,Open,49891,9/20/2024,,
+Application Failure,Medium,2,Open,79959,10/26/2024,,
+Phishing attacks,Low,3,Open,83404,5/23/2024,,
+Misconfigurations in cloud services,Medium,2,Close,60616,10/21/2024,10/23/2024,2 days
+Infrastructure Management,Low,3,Close,69414,6/23/2024,6/28/2024,5 days
+Misconfigurations in cloud services,Medium,2,Open,83352,4/24/2024,,
+Phishing attacks,Medium,2,Open,31032,9/14/2024,,
+Server down,Low,3,Open,32665,9/19/2024,,
+Infrastructure Management,High,1,Close,79521,9/17/2024,9/19/2024,2 days
+Infrastructure Management,Low,3,Open,84219,9/11/2024,,
+Infrastructure Management,Low,3,Close,37817,11/9/2024,11/14/2024,5 days
+Network Performance,Medium,2,Close,75906,11/13/2024,11/16/2024,3 days
+Security Breach,Low,3,Close,69479,4/13/2024,4/17/2024,4 days
+Misconfigurations in cloud services,High,1,Close,58405,2/11/2024,2/12/2024,1 days
+Technical Issue,Low,3,Open,63138,10/19/2024,,
+SLA Violations,High,1,Close,83830,5/11/2024,5/13/2024,2 days
+Misconfigurations in cloud services,Low,3,Close,36122,9/18/2024,9/22/2024,4 days
+Misconfigurations in cloud services,High,1,Open,56724,8/7/2024,,
+Network Performance,Low,3,Open,88484,7/27/2024,,
+Policy violations,High,1,Open,72827,7/23/2024,,
+Policy violations,Medium,2,Close,54653,2/13/2024,2/16/2024,3 days
+Cybersecurity/Data Breach,High,1,Close,88211,9/15/2024,9/16/2024,1 days
+Cybersecurity/Data Breach,Medium,2,Close,82750,7/10/2024,7/12/2024,2 days
+Cybersecurity/Data Breach,Low,3,Close,57254,7/16/2024,7/20/2024,4 days
+Technical Issue,High,1,Open,31432,5/16/2024,,
+Policy violations,High,1,Close,68159,1/24/2024,1/25/2024,1 days
+Infrastructure Management,High,1,Close,53766,10/5/2024,10/6/2024,1 days
+Infrastructure Management,Medium,2,Open,83287,4/24/2024,,
+Network Performance,Medium,2,Close,33417,9/20/2024,9/22/2024,2 days
+Technical Issue,Medium,2,Close,52229,10/9/2024,10/12/2024,3 days
+Security Breach,Medium,2,Open,69013,8/7/2024,,
+Application Failure,High,1,Close,75013,10/15/2024,10/17/2024,2 days
+Infrastructure Management,Medium,2,Open,52758,3/11/2024,,
+Technical Issue,High,1,Close,80820,9/7/2024,9/9/2024,2 days
+Phishing attacks,Medium,2,Close,65715,9/7/2024,9/10/2024,3 days
+Phishing attacks,Low,3,Open,41648,10/10/2024,,
+Technical Issue,Medium,2,Close,89252,9/2/2024,9/5/2024,3 days
+Misconfigurations in cloud services,High,1,Close,36094,2/28/2024,2/29/2024,1 days
+Network Performance,High,1,Close,84078,3/10/2024,3/11/2024,1 days
+Infrastructure Management,Medium,2,Open,44385,5/23/2024,,
+Application Failure,Low,3,Open,62304,9/11/2024,,
+Server down,High,1,Open,87491,6/25/2024,,
+Application Failure,Low,3,Close,78690,2/17/2024,2/22/2024,5 days
+Network Performance,Medium,2,Close,37293,2/12/2024,2/15/2024,3 days
+SLA Violations,Low,3,Open,72819,8/5/2024,,
+Server down,Low,3,Open,80385,2/24/2024,,
+Misconfigurations in cloud services,Low,3,Open,48728,5/8/2024,,
+Application Failure,High,1,Open,55018,9/7/2024,,
+Policy violations,Low,3,Close,59297,10/6/2024,10/11/2024,5 days
+Server down,High,1,Close,41746,9/9/2024,9/11/2024,2 days
+Technical Issue,Medium,2,Close,77968,8/20/2024,8/23/2024,3 days
+Infrastructure Management,Low,3,Close,38980,6/12/2024,6/17/2024,5 days
+SLA Violations,Low,3,Close,50737,8/3/2024,8/7/2024,4 days
+Application Failure,Low,3,Close,58481,4/26/2024,5/1/2024,5 days
+Phishing attacks,Low,3,Close,81407,9/8/2024,9/12/2024,4 days
+Policy violations,Low,3,Open,59677,3/13/2024,,
+SLA Violations,Low,3,Close,66248,6/26/2024,6/30/2024,4 days
+Cybersecurity/Data Breach,Medium,2,Open,71295,7/6/2024,,
+Misconfigurations in cloud services,Low,3,Close,61201,5/1/2024,5/6/2024,5 days
+Policy violations,Medium,2,Close,49932,10/30/2024,11/1/2024,2 days
+Policy violations,Low,3,Open,65009,3/9/2024,,
+Security Breach,Medium,2,Close,34321,9/30/2024,10/3/2024,3 days
+Application Failure,Medium,2,Close,82038,1/27/2024,1/29/2024,2 days
+Cybersecurity/Data Breach,Low,3,Open,44737,2/11/2024,,
+Phishing attacks,High,1,Close,83774,10/5/2024,10/6/2024,1 days
+SLA Violations,Low,3,Open,60755,3/11/2024,,
+Policy violations,High,1,Close,61466,10/20/2024,10/21/2024,1 days
+Application Failure,Low,3,Open,75746,8/3/2024,,
+SLA Violations,Low,3,Open,79732,7/29/2024,,
+Phishing attacks,Medium,2,Open,33985,8/11/2024,,
+Application Failure,Medium,2,Open,84962,10/14/2024,,
+SLA Violations,Medium,2,Open,76685,6/1/2024,,
+Network Performance,Low,3,Open,32465,5/19/2024,,
+Misconfigurations in cloud services,Low,3,Open,41387,2/8/2024,,
+Server down,Low,3,Open,53866,4/13/2024,,
+Network Performance,Low,3,Close,83203,4/15/2024,4/19/2024,4 days
+Policy violations,High,1,Close,54323,5/28/2024,5/30/2024,2 days
+Technical Issue,High,1,Close,35168,1/21/2024,1/22/2024,1 days
+Infrastructure Management,High,1,Open,85687,2/23/2024,,
+Network Performance,Medium,2,Close,55015,1/17/2024,1/19/2024,2 days
+Phishing attacks,Low,3,Open,30589,7/4/2024,,
+Misconfigurations in cloud services,Low,3,Close,81607,7/15/2024,7/19/2024,4 days
+Technical Issue,Medium,2,Open,46568,4/15/2024,,
+SLA Violations,Medium,2,Close,48491,4/6/2024,4/8/2024,2 days
+Application Failure,High,1,Open,43852,9/27/2024,,
+Network Performance,Low,3,Open,41508,10/25/2024,,
+Phishing attacks,Medium,2,Open,58788,7/18/2024,,
+Technical Issue,Medium,2,Close,78924,5/17/2024,5/20/2024,3 days
+Application Failure,Medium,2,Close,44348,5/9/2024,5/12/2024,3 days
+Technical Issue,Low,3,Close,85740,6/5/2024,6/9/2024,4 days
+Misconfigurations in cloud services,Medium,2,Close,37123,6/23/2024,6/26/2024,3 days
+Infrastructure Management,High,1,Close,52134,7/29/2024,7/31/2024,2 days
+Policy violations,Medium,2,Open,86455,11/10/2024,,
+Misconfigurations in cloud services,High,1,Open,66834,10/26/2024,,
+SLA Violations,High,1,Close,84942,1/27/2024,1/28/2024,1 days
+Infrastructure Management,Low,3,Close,77409,5/17/2024,5/21/2024,4 days
+Network Performance,Medium,2,Open,77688,7/12/2024,,
+Policy violations,High,1,Open,82384,2/13/2024,,
+Cybersecurity/Data Breach,Medium,2,Open,56161,2/28/2024,,
+Network Performance,Low,3,Close,50819,4/15/2024,4/20/2024,5 days
+Network Performance,High,1,Close,85920,8/17/2024,8/19/2024,2 days
+Cybersecurity/Data Breach,Low,3,Open,47153,2/8/2024,,
+Misconfigurations in cloud services,Medium,2,Open,63801,9/21/2024,,
+Security Breach,Medium,2,Close,37396,2/13/2024,2/15/2024,2 days
+Server down,Low,3,Open,71446,8/7/2024,,
+Cybersecurity/Data Breach,Medium,2,Close,36748,10/29/2024,11/1/2024,3 days
+Security Breach,High,1,Open,38842,10/9/2024,,
+SLA Violations,High,1,Open,45461,2/13/2024,,
+Cybersecurity/Data Breach,High,1,Close,72057,3/12/2024,3/13/2024,1 days
+Infrastructure Management,High,1,Open,68974,9/28/2024,,
+Network Performance,Medium,2,Close,51715,3/14/2024,3/16/2024,2 days
+Cybersecurity/Data Breach,Medium,2,Open,32721,8/8/2024,,
+Server down,Low,3,Close,81612,6/10/2024,6/14/2024,4 days
+Policy violations,High,1,Open,57242,9/17/2024,,
+Phishing attacks,Medium,2,Close,83349,10/15/2024,10/17/2024,2 days
+Infrastructure Management,High,1,Close,33877,5/31/2024,6/2/2024,2 days
+Application Failure,Medium,2,Close,68551,11/12/2024,11/14/2024,2 days
+Phishing attacks,High,1,Close,35530,10/17/2024,10/18/2024,1 days
+Policy violations,Medium,2,Close,32442,2/19/2024,2/21/2024,2 days
+Application Failure,Low,3,Open,60865,8/17/2024,,
+Technical Issue,Medium,2,Open,78779,8/24/2024,,
+Infrastructure Management,Medium,2,Open,85978,2/26/2024,,
+Security Breach,High,1,Close,71407,6/3/2024,6/4/2024,1 days
+Server down,Low,3,Close,76866,11/5/2024,11/10/2024,5 days
+Infrastructure Management,High,1,Close,57980,3/16/2024,3/18/2024,2 days
+Phishing attacks,Low,3,Close,68397,7/30/2024,8/3/2024,4 days
+Misconfigurations in cloud services,Medium,2,Open,89303,7/23/2024,,
+Security Breach,Medium,2,Open,39727,3/7/2024,,
+Application Failure,High,1,Close,84729,8/8/2024,8/10/2024,2 days
+Server down,Medium,2,Open,31711,3/10/2024,,
+Security Breach,Low,3,Close,80692,3/19/2024,3/24/2024,5 days
+Network Performance,Low,3,Open,79396,4/7/2024,,
+Network Performance,High,1,Open,85690,5/23/2024,,
+Phishing attacks,Low,3,Close,59277,10/30/2024,11/4/2024,5 days
+Security Breach,High,1,Open,55066,4/23/2024,,
+SLA Violations,Medium,2,Open,87620,1/12/2024,,
+Server down,High,1,Open,72970,11/7/2024,,
+Application Failure,Low,3,Close,53764,6/21/2024,6/26/2024,5 days
+Cybersecurity/Data Breach,High,1,Close,47100,6/7/2024,6/9/2024,2 days
+Application Failure,High,1,Open,82051,11/12/2024,,
+Application Failure,Medium,2,Close,60245,5/28/2024,5/31/2024,3 days
+Misconfigurations in cloud services,Low,3,Open,53855,5/2/2024,,
+Technical Issue,Medium,2,Open,53816,8/2/2024,,
+Network Performance,Medium,2,Open,47317,8/14/2024,,
+Network Performance,Medium,2,Open,53162,4/30/2024,,
+Cybersecurity/Data Breach,Low,3,Open,77799,9/3/2024,,
+Server down,High,1,Open,51880,7/12/2024,,
+Cybersecurity/Data Breach,Medium,2,Open,63358,7/24/2024,,
+Phishing attacks,High,1,Close,47123,9/23/2024,9/24/2024,1 days
+Misconfigurations in cloud services,High,1,Open,70493,10/1/2024,,
+Policy violations,Medium,2,Close,54247,4/26/2024,4/28/2024,2 days
+Infrastructure Management,Medium,2,Open,71321,9/16/2024,,
+Misconfigurations in cloud services,Medium,2,Close,34371,7/6/2024,7/8/2024,2 days
+Cybersecurity/Data Breach,Medium,2,Close,30630,1/12/2024,1/15/2024,3 days
+Server down,High,1,Open,78155,8/21/2024,,
+Network Performance,Medium,2,Open,88500,3/14/2024,,
+Cybersecurity/Data Breach,Medium,2,Close,67663,10/9/2024,10/11/2024,2 days
+Misconfigurations in cloud services,Low,3,Close,81949,9/3/2024,9/8/2024,5 days
+Infrastructure Management,High,1,Close,30971,1/1/2024,1/2/2024,1 days
+Application Failure,Low,3,Close,48147,2/11/2024,2/15/2024,4 days
+Misconfigurations in cloud services,High,1,Close,86940,10/26/2024,10/28/2024,2 days
+Cybersecurity/Data Breach,Medium,2,Close,89994,10/20/2024,10/23/2024,3 days
+Network Performance,High,1,Open,74153,9/14/2024,,
+Technical Issue,Medium,2,Open,88790,3/31/2024,,
+Phishing attacks,High,1,Close,31900,7/10/2024,7/12/2024,2 days
+Misconfigurations in cloud services,High,1,Open,38453,3/8/2024,,
+Infrastructure Management,Low,3,Open,69226,7/22/2024,,
+Policy violations,Medium,2,Open,57380,8/30/2024,,
+Infrastructure Management,Medium,2,Close,80510,6/27/2024,6/29/2024,2 days
+Infrastructure Management,Medium,2,Open,42302,3/18/2024,,
+SLA Violations,High,1,Close,43092,3/16/2024,3/17/2024,1 days
+Phishing attacks,Low,3,Close,55189,10/30/2024,11/4/2024,5 days
+Application Failure,High,1,Close,75676,7/24/2024,7/26/2024,2 days
+Technical Issue,High,1,Close,77789,3/23/2024,3/25/2024,2 days
+Policy violations,High,1,Close,87403,1/15/2024,1/17/2024,2 days
+Technical Issue,Medium,2,Close,31756,11/11/2024,11/13/2024,2 days
+Phishing attacks,High,1,Close,55212,7/13/2024,7/14/2024,1 days
+Application Failure,Low,3,Close,85432,9/7/2024,9/11/2024,4 days
+Misconfigurations in cloud services,Medium,2,Close,71113,6/21/2024,6/23/2024,2 days
+Network Performance,High,1,Open,61658,2/13/2024,,
+Phishing attacks,Medium,2,Close,88890,8/7/2024,8/10/2024,3 days
+Misconfigurations in cloud services,Low,3,Open,82783,4/20/2024,,
+Server down,Low,3,Open,60769,9/12/2024,,
+Policy violations,Low,3,Open,37716,2/29/2024,,
+Network Performance,Low,3,Close,64000,2/22/2024,2/27/2024,5 days
+Application Failure,High,1,Open,78037,6/30/2024,,
+Phishing attacks,Medium,2,Open,41401,11/3/2024,,
+SLA Violations,Low,3,Open,88100,2/4/2024,,
+Security Breach,Medium,2,Open,37523,8/30/2024,,
+Infrastructure Management,Medium,2,Close,48969,1/20/2024,1/22/2024,2 days
+SLA Violations,High,1,Close,87102,1/10/2024,1/11/2024,1 days
+Network Performance,Low,3,Close,36550,5/19/2024,5/24/2024,5 days
+SLA Violations,Medium,2,Open,51325,8/28/2024,,
+Technical Issue,Low,3,Close,39044,3/31/2024,4/5/2024,5 days
+Phishing attacks,Medium,2,Close,37360,7/15/2024,7/18/2024,3 days
+SLA Violations,Low,3,Open,84775,1/31/2024,,
+Infrastructure Management,High,1,Close,71757,7/12/2024,7/13/2024,1 days
+Cybersecurity/Data Breach,High,1,Open,87793,7/28/2024,,
+Network Performance,Medium,2,Close,52512,1/8/2024,1/10/2024,2 days
+Technical Issue,Low,3,Open,54444,5/11/2024,,
+Security Breach,High,1,Open,85337,5/5/2024,,
+Security Breach,Medium,2,Open,67913,5/7/2024,,
+Cybersecurity/Data Breach,High,1,Open,82105,5/13/2024,,
+Application Failure,Medium,2,Close,85101,9/26/2024,9/28/2024,2 days
+Technical Issue,Medium,2,Open,74671,9/26/2024,,
+Phishing attacks,Medium,2,Open,51650,2/22/2024,,
+SLA Violations,Medium,2,Close,41940,2/1/2024,2/4/2024,3 days
+SLA Violations,Medium,2,Close,52987,8/21/2024,8/24/2024,3 days
+Server down,High,1,Close,82489,10/28/2024,10/29/2024,1 days
+Network Performance,High,1,Open,82508,1/14/2024,,
+Security Breach,High,1,Open,60105,10/5/2024,,
+SLA Violations,Medium,2,Close,88021,2/1/2024,2/3/2024,2 days
+Server down,High,1,Open,63536,10/14/2024,,
+Technical Issue,Medium,2,Close,76225,5/13/2024,5/16/2024,3 days
+Application Failure,Low,3,Close,79243,11/9/2024,11/13/2024,4 days
+Misconfigurations in cloud services,High,1,Close,79553,3/20/2024,3/22/2024,2 days
+Infrastructure Management,Medium,2,Open,61796,1/25/2024,,
+Application Failure,Low,3,Open,72969,3/18/2024,,
+Phishing attacks,High,1,Close,87555,6/18/2024,6/19/2024,1 days
+Policy violations,Medium,2,Open,32763,9/28/2024,,
+Technical Issue,High,1,Open,33117,10/20/2024,,
+Misconfigurations in cloud services,Low,3,Close,55574,3/26/2024,3/31/2024,5 days
+Policy violations,Medium,2,Open,80389,7/7/2024,,
+SLA Violations,Medium,2,Close,57900,5/2/2024,5/5/2024,3 days
+SLA Violations,Medium,2,Close,64737,2/12/2024,2/15/2024,3 days
+Cybersecurity/Data Breach,Low,3,Open,82736,11/1/2024,,
+Server down,Low,3,Close,78463,1/17/2024,1/21/2024,4 days
+Phishing attacks,High,1,Close,75013,6/7/2024,6/8/2024,1 days
+Network Performance,High,1,Open,56503,1/31/2024,,
+Server down,High,1,Close,85516,3/18/2024,3/20/2024,2 days
+Policy violations,High,1,Open,37852,10/1/2024,,
+Phishing attacks,High,1,Open,34737,3/3/2024,,
+Technical Issue,Low,3,Close,42245,6/1/2024,6/6/2024,5 days
+Network Performance,High,1,Open,43975,7/12/2024,,
+Application Failure,High,1,Open,38644,7/2/2024,,
+SLA Violations,Medium,2,Open,76642,9/28/2024,,
+Phishing attacks,Medium,2,Open,33878,1/27/2024,,
+Network Performance,High,1,Close,58115,7/27/2024,7/28/2024,1 days
+SLA Violations,High,1,Close,71903,6/12/2024,6/14/2024,2 days
+Application Failure,High,1,Open,62836,3/21/2024,,
+Application Failure,Medium,2,Close,51327,9/9/2024,9/11/2024,2 days
+Infrastructure Management,High,1,Open,60433,7/8/2024,,
+Technical Issue,Low,3,Close,51091,4/28/2024,5/2/2024,4 days
+Technical Issue,Low,3,Open,88408,1/10/2024,,
+Application Failure,Medium,2,Open,51455,6/29/2024,,
+Cybersecurity/Data Breach,Medium,2,Close,60347,6/26/2024,6/28/2024,2 days
+Technical Issue,Medium,2,Open,66899,10/21/2024,,
+Network Performance,Low,3,Open,38194,9/25/2024,,
+Application Failure,Medium,2,Close,54971,6/4/2024,6/7/2024,3 days
+Phishing attacks,High,1,Open,53191,6/19/2024,,
+Network Performance,Low,3,Close,41025,3/11/2024,3/16/2024,5 days
+Network Performance,Medium,2,Close,35489,6/25/2024,6/27/2024,2 days
+Policy violations,High,1,Open,72894,1/15/2024,,
+Technical Issue,Medium,2,Close,69151,10/6/2024,10/9/2024,3 days
+Policy violations,Medium,2,Close,36359,4/9/2024,4/11/2024,2 days
+Server down,Low,3,Close,67717,5/22/2024,5/26/2024,4 days
+SLA Violations,Medium,2,Open,62317,5/24/2024,,
+Server down,Low,3,Close,66842,6/22/2024,6/26/2024,4 days
+Security Breach,Medium,2,Close,50184,7/24/2024,7/27/2024,3 days
+Phishing attacks,Low,3,Close,40707,5/20/2024,5/25/2024,5 days
+Application Failure,Low,3,Close,70798,8/19/2024,8/23/2024,4 days
+Network Performance,Medium,2,Close,72162,6/5/2024,6/7/2024,2 days
+Policy violations,Medium,2,Close,49559,3/27/2024,3/29/2024,2 days
+Policy violations,High,1,Close,65963,1/2/2024,1/3/2024,1 days
+Policy violations,Medium,2,Close,60843,11/8/2024,11/11/2024,3 days
+Policy violations,Medium,2,Open,59464,3/22/2024,,
+Network Performance,Low,3,Close,74283,4/10/2024,4/15/2024,5 days
+Cybersecurity/Data Breach,Low,3,Close,52577,10/31/2024,11/5/2024,5 days
+Network Performance,High,1,Open,40741,5/23/2024,,
+Cybersecurity/Data Breach,Low,3,Open,31599,2/25/2024,,
+Cybersecurity/Data Breach,Low,3,Close,47763,6/27/2024,7/1/2024,4 days
+Infrastructure Management,Low,3,Open,41965,7/26/2024,,
+Misconfigurations in cloud services,Low,3,Close,55970,3/16/2024,3/20/2024,4 days
+SLA Violations,Low,3,Open,49555,3/2/2024,,
+Technical Issue,Medium,2,Open,41359,3/22/2024,,
+Server down,Low,3,Open,57081,1/9/2024,,
+Security Breach,High,1,Close,48962,3/7/2024,3/8/2024,1 days
+Application Failure,Low,3,Close,81465,8/15/2024,8/20/2024,5 days
+Technical Issue,High,1,Open,73016,6/5/2024,,
+Technical Issue,Medium,2,Open,59039,7/14/2024,,
+Application Failure,Low,3,Close,72326,3/6/2024,3/11/2024,5 days
+Misconfigurations in cloud services,Medium,2,Open,89703,9/4/2024,,
+Network Performance,Medium,2,Open,44280,1/11/2024,,
+Misconfigurations in cloud services,Low,3,Open,42534,2/24/2024,,
+Misconfigurations in cloud services,Medium,2,Open,47191,2/12/2024,,
+Technical Issue,Low,3,Open,89803,8/24/2024,,
+Cybersecurity/Data Breach,Medium,2,Close,80368,3/6/2024,3/8/2024,2 days
+Policy violations,Low,3,Open,30612,6/20/2024,,
+Network Performance,Medium,2,Open,88447,7/9/2024,,
+Technical Issue,High,1,Close,75977,3/12/2024,3/13/2024,1 days
+Application Failure,Low,3,Open,49993,1/24/2024,,

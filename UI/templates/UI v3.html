@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Service Dashboard Header</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href={{ url_for('static', filename='css_v1/styles.css') }}>
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="dashboard-header">
+        <!-- Logo -->
+        <div class="logo">
+            <span>STAR</span>
+        </div>
+
+        <!-- Navigation Links -->
+        <nav class="nav-links">
+            <a href="#">All</a>
+            <a href="#">Favorites</a>
+            <a href="#">History</a>
+            <a href="#">Workspaces</a>
+        </nav>
+
+        <!-- Workspace Button -->
+        <div class="workspace-btn">
+            <button class="workspace-button" onclick="redirectToLink()">
+                <i class="fa fa-folder"></i> Insights Hub <i class="fa fa-star"></i>
+            </button>
+			<script>  
+				function redirectToLink() {  
+					window.location.href = 'http://localhost:8501/';  
+				}  
+			</script> 			
+        </div>
+
+        <!-- Search Bar -->
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search..." aria-label="Search">
+            <button id="searchButton"><i class="fa fa-search"></i></button>
+        </div>
+
+        <!-- Notification and User Icons -->
+        <div class="header-icons">
+            <i class="fa fa-bell"></i>
+            <i class="fa fa-cog"></i>
+            <i class="fa fa-user-circle"></i>
+        </div>
+    </header>
+
+    <!-- JavaScript for Search Functionality -->
+    <script>
+        const searchButton = document.getElementById('searchButton');
+        const searchInput = document.getElementById('searchInput');
+
+        searchButton.addEventListener('click', () => {
+            const query = searchInput.value.trim();
+            if (query) {
+                alert(`You searched for: ${query}`);
+                searchInput.value = ''; // Clear the input field
+            } else {
+                alert('Please enter a search query.');
+            }
+        });
+    </script>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IT Service Ticket Details</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href={{ url_for('static', filename='css_v1/ticket-details.css') }}>
+
+</head>
+<body>
+    <!-- Ticket Header Section -->
+    <div class="ticket-header">
+        <!-- Incident Details -->
+        <div class="incident-info">
+            <i class="fa fa-bars"></i>
+            <span>Incident</span>
+            <span id="inc-high-id" class="incident-id">Workspace View</span>
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="action-buttons">
+            <button id="edit" class="edit-button" onclick="updateValues()">Next</button>
+            <button id="auto-resolve" class="auto-resolve-button">Assist !</button>
+        </div>
+    </div>
+    <!-- Ticket Details Form -->
+    <div class="ticket-form">
+        <div class="form-row">
+            <div class="form-group">
+                <label>Number</label>
+                <input id="inc-number" type="text" value="INC0010622" readonly>
+            </div>
+            <div class="form-group">
+                <label>Caller</label>
+                <input id="caller-id" type="text" value="BR0105678" readonly>
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group">
+                <label>Category</label>
+                <input id="category-id" type="text" value="Customer Portal" readonly>
+            </div>
+            <div class="form-group">
+                <label>Subcategory</label>
+                <input id="subc-id" type="text" value="Signature Portal" readonly>
+            </div>
+        </div>
+
+<!--         <div class="form-row">
+            <div class="form-group">
+                <label>Business Service</label>
+                <input type="text" value="" readonly>
+            </div>
+            <div class="form-group">
+                <label>Configuration Item</label>
+                <input type="text" value="" readonly>
+            </div>
+        </div> -->
+
+        <div class="form-row">
+            <div class="form-group">
+                <label>Contact Type</label>
+                <input id = "contact-id" type="text" value="-- None --" readonly>
+            </div>
+            <div class="form-group">
+                <label>State</label>
+                <input id="ticket-state" type="text" value="In-Progress" readonly>
+            </div>
+        </div>
+<!-- 
+        <div class="form-row">
+            <div class="form-group">
+                <label>Severity</label>
+                <input type="text" value="1 - High" readonly>
+            </div>
+            <div class="form-group">
+                <label>Urgency</label>
+                <input type="text" value="1 - High" readonly>
+            </div>
+        </div> -->
+
+        <div class="form-row">
+            <div class="form-group">
+                <label>Severity</label>
+                <input type="text" value="1 - High" readonly>
+            </div>
+            <div class="form-group">
+                <label>Assignment Group</label>
+                <input id = "assign-id" type="text" value="Customer Portal L1 Support" readonly>
+            </div>
+        </div>
+
+<!--         <div class="form-row">
+            <div class="form-group">
+                <label>Assigned To</label>
+                <input id ="Assign-id" type="text" value="" readonly>
+            </div>
+        </div> -->
+
+        <div class="form-row">
+            <div class="form-group full-width">
+                <label>Short Description</label>
+                <input id = "short-desc" type="text" value="Unable to access Signature Portal" readonly>
+            </div>
+        </div>
+
+
+
+
+		<div class="form-row">
+			<div class="form-group full-width">
+				<label>Description</label>
+				<textarea id ="prompt" name="prompt_input"> I was not able to access signature portal from central customer portal since yesterday, could you please check on the same and provide the resolution.</textarea>
+			</div>
+		</div>
+
+		<script>  
+			let currentSet = 0;  
+			const values = [  
+				{ field1: "A ransomware attack has been detected on the company's network. Multiple systems have been encrypted, and the attackers are demanding a ransom for the decryption key. This issue is causing significant operational disruptions and data access issues across the organization.", field2: 'INC3456891',field3:'BR0856784',field4:'Network',field5:'API Issues',field6:'Major Issues with Network',field7:'Cybersecurity Issue'},  
+				{ field1: 'A significant issue was reported where customer payments were being declined due to a malfunction in the payment gateway integration. This problem is affecting the Banking platform, leading to customer dissatisfaction.', field2: 'INC6712948',field3:'BR0967854',field4:'Mainframe',field5:'System Outage',field6:'Mainframe Server system Outage',field7:'Mainframe L1 Support'}  
+			];  
+	  
+			function updateValues() {  
+				const outputTextbox = document.getElementById('output-textbox');
+				currentSet = (currentSet + 1) % values.length;  
+				document.getElementById('prompt').value = values[currentSet].field1;  
+				document.getElementById('inc-number').value = values[currentSet].field2;  
+				document.getElementById('inc-high-id').value = values[currentSet].field2; 
+				document.getElementById('caller-id').value = values[currentSet].field3;
+				document.getElementById('category-id').value = values[currentSet].field4;
+				document.getElementById('subc-id').value = values[currentSet].field5;
+				document.getElementById('short-desc').value = values[currentSet].field6;
+				document.getElementById('assign-id').value = values[currentSet].field7;
+				outputTextbox.value = '';
+				outputContainer.classList.add('hidden');
+				resolutionLabel.classList.add('hidden');				
+			}  
+		</script> 		
+
+        <div class="form-row">
+            <div id="resol" class="form-group full-width hidden">
+                <label>Resolution</label>
+            </div>
+        </div>
+
+		<div id="output-container" class="hidden">
+			<div class="form-row">
+				<div class="form-group full-width">
+					<textarea id="output-textbox" class="response"></textarea>							
+			<div class="action-buttons">
+				<button id="submitButton" class="edit-button">Submit</button>
+			</div>
+		</div>
+		
+		<script>
+			const inputTextbox = document.getElementById('prompt');
+			const outputTextbox = document.getElementById('output-textbox');
+			const outputContainer = document.getElementById('output-container');
+			const resolutionLabel = document.getElementById('resol');
+<!-- 			function onButtonClick(){ -->
+<!-- 			  document.getElementById('output-container').className="show"; -->
+<!-- 			  document.getElementById('resol').className="show"; -->
+<!-- 			  const outputTextbox = document.getElementById('output-textbox'); -->
+<!-- 			  document.getElementById('output-textbox').className="show";
+<!-- 			  document.getElementById('button-container').style.visibility = 'visible'; -->
+<!-- 			  document.getElementById('editButton').style.visibility = 'visible'; -->
+<!-- 			  document.getElementById('submitButton').style.visibility = 'visible'; --> -->
+<!-- 	                } -->
+			// JavaScript to handle the button click and display output in a specific section
+			document.getElementById('auto-resolve').addEventListener('click', async () => {
+	
+				//document.getElementById('resol').className="show";
+				//document.getElementById('output-container').className="show";
+				outputContainer.classList.remove('hidden');
+				resolutionLabel.classList.remove('hidden');
+				
+				const content = inputTextbox.value;
+				try {
+					const response = await fetch('/run-script', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json'
+						},
+						body: JSON.stringify({ content })
+					});
+
+					const data = await response.text(); // Get plain text response
+					outputTextbox.value = data;
+
+				} catch (error) {
+					outputSection.textContent = `Request failed: ${error}`;
+				}
+			});
+			const submitButton = document.getElementById('submitButton');
+			const stateValue = document.getElementById('ticket-state');
+<!-- 			const outputTextbox = document.getElementById('output-textbox'); -->
+			// Function to handle the Submit button click
+			submitButton.addEventListener('click', () => {
+				outputTextbox.setAttribute('readonly', true);
+				outputTextbox.style.backgroundColor = "#f0f0f0";
+				stateValue.value = "Resolved";
+				alert(`Ticket Resolution has been Sucessfully Submitted`);
+			});
+		</script>			
+		<script>
+
+		</script>	
+		
+		
+    </div>
+</body>
+</html>
+
